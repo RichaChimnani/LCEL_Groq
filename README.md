@@ -1,1 +1,2 @@
-# LCEL_Groq
+# Building a Simple LLM Application with LCEL
+
